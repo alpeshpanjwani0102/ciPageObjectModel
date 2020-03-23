@@ -24,6 +24,8 @@ public class LoginTest1  {
 //		driver.get("https://www.zoho.com/");
 //		driver.manage().window().maximize();
 //		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		
+		// this is a rough test case
 		HomePage home = new HomePage();
 		LoginPage login = home.goToLogin();
 		ZohoAppPage zp = login.doLogin("andypaage@gmail.com", "2002watsup?Zo");

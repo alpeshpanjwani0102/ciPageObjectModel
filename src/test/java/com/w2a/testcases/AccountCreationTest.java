@@ -21,7 +21,7 @@ public class AccountCreationTest extends BaseTest {
 		AccountsPage ap = Page.menu.goToAccounts();
 		CreateAccountPage cap = ap.goToAddAccounts();
 		cap.createAccount(data.get("accountName"));
-		Assert.fail("CreateAccountTest failed intentionaly");
+		//Assert.fail("CreateAccountTest failed intentionaly");
 		
 		
 	}

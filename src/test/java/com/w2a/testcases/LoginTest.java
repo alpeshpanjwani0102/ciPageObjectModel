@@ -19,7 +19,7 @@ public class LoginTest extends BaseTest{
 		System.out.println("inside LoginTest, before clicking login");
 		LoginPage login = home.goToLogin();
 		login.doLogin(data.get("username"), data.get("password"));
-		Assert.fail("Login test falied intentionaly");
+		//Assert.fail("Login test falied intentionaly");
 		
 	}
 

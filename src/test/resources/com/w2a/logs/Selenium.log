@@ -1,0 +1,25 @@
+2020-03-22 11:59:20 DEBUG devpinoyLogger:68 - config file loaded
+2020-03-22 11:59:20 DEBUG devpinoyLogger:86 - OR file loaded
+2020-03-22 11:59:20 DEBUG devpinoyLogger:112 - chrome detected!!
+2020-03-22 11:59:41 DEBUG devpinoyLogger:135 - navigated to http://www.zoho.com/
+2020-03-22 11:59:51 DEBUG devpinoyLogger:158 - Clicking on an element : loginlinK_XPATH
+2020-03-22 11:59:52 DEBUG devpinoyLogger:171 - Typing at element : email_XPATH entered value as : andypaage@gmail.com
+2020-03-22 11:59:53 DEBUG devpinoyLogger:158 - Clicking on an element : nextbtn_XPATH
+2020-03-22 11:59:53 DEBUG devpinoyLogger:171 - Typing at element : password_XPATH entered value as : 2002watsup?Zo
+2020-03-22 11:59:53 DEBUG devpinoyLogger:158 - Clicking on an element : signinbtn_XPATH
+2020-03-22 12:00:01 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-03-22 12:00:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-03-22 12:00:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-03-22 12:00:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-03-22 12:00:01 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/alpes/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-03-22 12:00:11 DEBUG devpinoyLogger:158 - Clicking on an element : crm_XPATH
+2020-03-22 12:00:11 DEBUG devpinoyLogger:158 - Clicking on an element : accountstab_XPATH
+2020-03-22 12:00:12 DEBUG devpinoyLogger:158 - Clicking on an element : createaccountbtn_XPATH
+2020-03-22 12:00:13 DEBUG devpinoyLogger:171 - Typing at element : accountname_XPATH entered value as : Alpesh
+2020-03-22 12:00:14 DEBUG devpinoyLogger:158 - Clicking on an element : savebtn_CSS
+2020-03-22 12:00:14 DEBUG devpinoyLogger:10 - Account added successfully!
+2020-03-22 12:00:14 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-03-22 12:00:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-03-22 12:00:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-03-22 12:00:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-03-22 12:00:14 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/alpes/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
